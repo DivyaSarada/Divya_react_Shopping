@@ -1,0 +1,10 @@
+.container h1{
+color:blue;
+
+}
+.container button{
+float:right;
+}
+.container h2,p{
+  text-align: left;
+}
